@@ -252,3 +252,5 @@ License
 -------
 
 The project is licensed under the MIT license.
+
+本项目是对 FlashText 算法的实现，用来替换或抽取句子中的关键词。
